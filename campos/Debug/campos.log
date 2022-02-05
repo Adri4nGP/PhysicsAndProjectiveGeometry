@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 16/02/2015 14:12:08.
+     1>Proyecto "E:\Carpeta de clase MASTER\Apuntes\projects\campos\campos\campos.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Boost\boost_1_56_0\ /IC:\allegro\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt particulas2.cpp
+         particulas2.cpp
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(301): warning C4018: '<' : no coinciden signed/unsigned
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(540): warning C4018: '<' : no coinciden signed/unsigned
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(569): warning C4018: '<' : no coinciden signed/unsigned
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(550): warning C4101: 'dluz_x' : variable local sin referencia
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(550): warning C4101: 'dist_luz' : variable local sin referencia
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(550): warning C4101: 'dluz_y' : variable local sin referencia
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(550): warning C4101: 'dluz_z' : variable local sin referencia
+     1>e:\carpeta de clase master\apuntes\projects\campos\campos\particulas2.cpp(794): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Carpeta de clase MASTER\Apuntes\projects\campos\Debug\campos.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Boost\boost_1_56_0\stage\lib /LIBPATH:C:\allegro\lib /LIBPATH:C:\Boost\boost_1_56_0\stage\lib "allegro-5.0.10-monolith-md-debug.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Carpeta de clase MASTER\Apuntes\projects\campos\Debug\campos.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Carpeta de clase MASTER\Apuntes\projects\campos\Debug\campos.lib" /MACHINE:X86 Debug\particulas2.obj
+         campos.vcxproj -> E:\Carpeta de clase MASTER\Apuntes\projects\campos\Debug\campos.exe
+     1>Compilación del proyecto terminada "E:\Carpeta de clase MASTER\Apuntes\projects\campos\campos\campos.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:07.54
