@@ -12,9 +12,7 @@ All the code is in a single file and during the execution the interaction is don
 
 The program makes use of OpenMP to parallelize the calculation of the particles' behavior.
 
-
-
-![Optional Text](C:\Users\adrig\source\repos\PhysicsAndProjectiveGeometry\Pictures\bolas_2.png)
+![Optional Text](https://github.com/agepe/PhysicsAndProjectiveGeometry/blob/main/Pictures/bolas_2.png)
 
 ## Changing the observer
 
