@@ -6,11 +6,15 @@ It is coded in C++ and makes use of Allegro 5.0.10.
 
 Here I play with spherical particles under gravity and their elastic interactions among them and with the floor.
 
-The 3D representation of the scene on the 2D Allegro caanvas is calculated using projective geometry principles.
+The 3D representation of the scene on the 2D Allegro canvas is calculated using projective geometry principles.
 
 All the code is in a single file and during the execution the interaction is done selecting the console and using the keyboard.
 
 The program makes use of OpenMP to parallelize the calculation of the particles' behavior.
+
+
+
+![Optional Text](C:\Users\adrig\source\repos\PhysicsAndProjectiveGeometry\Pictures\bolas_2.png)
 
 ## Changing the observer
 
